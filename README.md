@@ -44,7 +44,7 @@ vue在前端预览pdf、word、视频时都有现成的组件，但是预览ppt�
 
 ```java
 链接：https://pan.baidu.com/s/1so3EjbT3r76T_BJQEk4a6w 
-提取码：bsho
+提取码：****（不便透露）
 ```
 
 下载完成后直接解压，进入bin目录，==双击startup.bat即可==，这个服务占用8136端口，使用前保证8136端口未被占用
